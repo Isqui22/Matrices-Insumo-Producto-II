@@ -8,7 +8,7 @@ A continuación, se adjunta el archivo en formato PDF que contiene las consignas
 
 [TP2_ALC_2C2024.pdf](https://github.com/user-attachments/files/18232515/TP2_ALC_2C2024.pdf)
 
-### Descripción del Trabajo
+### Observación
 
 En este trabajo práctico, se emplean las Matrices de Insumo-Producto provistas por la Comisión Económica para América Latina y el Caribe (CEPAL), un organismo perteneciente a las Naciones Unidas. Estas matrices están contenidas en el archivo:
 
